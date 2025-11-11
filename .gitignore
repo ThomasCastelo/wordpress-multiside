@@ -1,0 +1,20 @@
+# Archivos y carpetas generados por WordPress y Docker que NO deben subirse
+
+# Bases de datos y archivos de Docker
+dbdata/
+*.sql
+*.zip
+*.tar
+
+# Permite subir el archivo de la base de datos del proyecto
+!multisite.sql
+
+# Carpetas de contenido generadas (muy grandes)
+wp-content/cache/
+wp-content/uploads/
+wp-content/blogs.dir/ # (Si usaste subdominios)
+
+# Archivos de la sesión de IDEs y OS
+.DS_Store
+.vscode/
+Thumbs.db

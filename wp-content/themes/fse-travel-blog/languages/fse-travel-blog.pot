@@ -1,0 +1,827 @@
+# Copyright (C) 2025 Creta Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: FSE Travel Blog 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/fse-travel-blog\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-06-06T12:27:32+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: fse-travel-blog\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/block-patterns.php:11
+#: patterns/footer-columns.php:140
+msgid "FSE Travel Blog"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.cretathemes.com/products/free-travel-blog-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The FSE Travel Blog theme is the ultimate solution for travel enthusiasts and bloggers to share their adventures with the world. Designed specifically for travel blogs, it caters to a variety of niches, including adventure travel blogs, family travel blogs, and solo travel diaries. Whether you’re documenting luxury getaways, budget-friendly trips, or unique travel experiences, this theme provides the perfect foundation to craft visually stunning and engaging content. Built with flexibility and functionality in mind, the FSE Travel Blog theme features a clean, modern design that enhances your travel photography, videos, and storytelling. With customizable layouts and sections, you can highlight travel blog posts, create city and beach travel guides, or even dive into off-the-beaten-path explorations. Its responsive design ensures your blog looks exceptional across all devices, providing readers with an immersive experience. The theme also supports travel and culture blogs, eco-travel blogs, backpacker stories, digital nomad journeys, hiking and camping adventures, destination guides, travel tips, and photography showcases, making it ideal for a wide range of travel styles. Integrated social sharing options amplify your reach, while easy navigation keeps readers engaged with your content. Compatible with essential plugins like Contact Form 7 for inquiries, WooCommerce for selling travel gear or eBooks, Yoast SEO for content optimization, Jetpack for performance and security, and WP Travel Engine for itinerary and tour management, this theme offers all the tools needed to create a professional and engaging travel platform. Whether you’re an experienced travel blogger or just starting your journey, the FSE Travel Blog theme inspires creativity, storytelling, and global connection."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Creta Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://cretathemes.com/"
+msgstr ""
+
+#: functions.php:22
+msgid "https://www.cretathemes.com/products/traveller-blog-wordpress-theme"
+msgstr ""
+
+#: functions.php:23
+msgid "https://pattern.cretathemes.com/fse-travel-blog/"
+msgstr ""
+
+#: functions.php:24
+msgid "https://pattern.cretathemes.com/free-guide/fse-travel-blog/"
+msgstr ""
+
+#: functions.php:25
+msgid "https://pattern.cretathemes.com/pro-guide/fse-travel-blog/"
+msgstr ""
+
+#: functions.php:26
+msgid "https://wordpress.org/support/theme/fse-travel-blog"
+msgstr ""
+
+#: functions.php:27
+msgid "https://wordpress.org/support/theme/fse-travel-blog/reviews/#new-post"
+msgstr ""
+
+#: functions.php:28
+msgid "https://www.cretathemes.com/products/wordpress-theme-bundle"
+msgstr ""
+
+#: functions.php:29
+msgid "https://www.cretathemes.com/collections/wordpress-block-themes"
+msgstr ""
+
+#: functions.php:123
+msgid "Hey, Thank you for installing FSE Travel Blog Theme!"
+msgstr ""
+
+#: functions.php:124
+msgid "Navigate Getstart"
+msgstr ""
+
+#: functions.php:125
+#: inc/get-started/get-started.php:46
+msgid "Site Editor"
+msgstr ""
+
+#: functions.php:126
+msgid "Buy Pro"
+msgstr ""
+
+#: functions.php:127
+msgid "Get Bundle"
+msgstr ""
+
+#: functions.php:129
+msgid "Dismiss"
+msgstr ""
+
+#: inc/block-patterns.php:12
+msgid "Pages"
+msgstr ""
+
+#: inc/block-styles.php:17
+msgid "No Padding"
+msgstr ""
+
+#: inc/block-styles.php:26
+#: inc/block-styles.php:44
+#: inc/block-styles.php:53
+#: inc/block-styles.php:63
+#: inc/block-styles.php:73
+#: inc/block-styles.php:82
+msgid "Theme Style"
+msgstr ""
+
+#: inc/block-styles.php:35
+msgid "Plain"
+msgstr ""
+
+#: inc/customizer.php:84
+#: inc/get-started/get-started.php:87
+msgid "FSE Travel Blog Pro"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "GET PRO"
+msgstr ""
+
+#: inc/get-started/get-started.php:4
+msgid "Get Started"
+msgstr ""
+
+#: inc/get-started/get-started.php:32
+msgid "Important Links"
+msgstr ""
+
+#: inc/get-started/get-started.php:34
+msgid "Free Setup Guide"
+msgstr ""
+
+#: inc/get-started/get-started.php:35
+msgid "Support Forum"
+msgstr ""
+
+#: inc/get-started/get-started.php:36
+msgid "Live Demo"
+msgstr ""
+
+#: inc/get-started/get-started.php:37
+msgid "Pro Setup Guide"
+msgstr ""
+
+#: inc/get-started/get-started.php:43
+msgid "Theme Customization"
+msgstr ""
+
+#: inc/get-started/get-started.php:44
+msgid "Effortlessly modify & maintain your site using editor."
+msgstr ""
+
+#: inc/get-started/get-started.php:51
+msgid "Need Support?"
+msgstr ""
+
+#: inc/get-started/get-started.php:52
+msgid "Go to our support forum to help you in case of queries."
+msgstr ""
+
+#: inc/get-started/get-started.php:54
+msgid "Get Support"
+msgstr ""
+
+#: inc/get-started/get-started.php:59
+msgid "Leave Us A Review"
+msgstr ""
+
+#: inc/get-started/get-started.php:60
+msgid "Are you enjoying Our Theme? We would Love to hear your Feedback."
+msgstr ""
+
+#: inc/get-started/get-started.php:62
+msgid "Rate Us"
+msgstr ""
+
+#: inc/get-started/get-started.php:68
+msgid "Why Go For Premium?"
+msgstr ""
+
+#: inc/get-started/get-started.php:70
+msgid "Advanced Customization Options"
+msgstr ""
+
+#: inc/get-started/get-started.php:71
+msgid "One-Click Demo Import"
+msgstr ""
+
+#: inc/get-started/get-started.php:72
+msgid "WooCommerce Integration & Enhanced Features"
+msgstr ""
+
+#: inc/get-started/get-started.php:73
+msgid "Performance Optimization & SEO-Ready"
+msgstr ""
+
+#: inc/get-started/get-started.php:74
+msgid "Premium Support & Regular Updates"
+msgstr ""
+
+#: inc/get-started/get-started.php:81
+msgid "Get Theme Bundle"
+msgstr ""
+
+#: inc/get-started/get-started.php:83
+#: inc/get-started/get-started.php:89
+msgid "SUMMER SALE: "
+msgstr ""
+
+#: inc/get-started/get-started.php:83
+msgid "Extra 20%"
+msgstr ""
+
+#: inc/get-started/get-started.php:83
+msgid " OFF on WordPress Theme Bundle Use Code: "
+msgstr ""
+
+#: inc/get-started/get-started.php:83
+msgid "“HEAT20”"
+msgstr ""
+
+#: inc/get-started/get-started.php:84
+msgid "Get Theme Bundle For $86"
+msgstr ""
+
+#: inc/get-started/get-started.php:89
+msgid "Extra 25%"
+msgstr ""
+
+#: inc/get-started/get-started.php:89
+msgid " OFF on WordPress Block Themes! Use Code: "
+msgstr ""
+
+#: inc/get-started/get-started.php:89
+msgid "“SUMMER25”"
+msgstr ""
+
+#: inc/get-started/get-started.php:90
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/get-started/get-started.php:93
+msgid "View All Our Themes"
+msgstr ""
+
+#: inc/get-started/get-started.php:95
+msgid "View All Our Premium Themes"
+msgstr ""
+
+#: inc/icon-function.php:26
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-function.php:31
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404.php:13
+msgid "Oops! That page cannot be found"
+msgstr ""
+
+#: patterns/archive-header-with-background.php
+msgctxt "Pattern title"
+msgid "Archive Header With Background"
+msgstr ""
+
+#: patterns/blog-section.php
+msgctxt "Pattern title"
+msgid "Blog Section"
+msgstr ""
+
+#: patterns/blog-section.php:9
+msgid "Recent Post"
+msgstr ""
+
+#: patterns/blog-section.php:13
+#: patterns/gallery-section.php:16
+#: patterns/main-banner.php:31
+#: patterns/testimonial.php:16
+#: patterns/top-destination.php:16
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: patterns/default-header.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr ""
+
+#: patterns/footer-columns.php
+msgctxt "Pattern title"
+msgid "Footer Columns"
+msgstr ""
+
+#: patterns/footer-columns.php:19
+msgid "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/footer-columns.php:25
+msgid "Our Links"
+msgstr ""
+
+#: patterns/footer-columns.php:43
+#: patterns/top-destination.php:12
+msgid "Top Destination"
+msgstr ""
+
+#: patterns/footer-columns.php:61
+msgid "Contact Info"
+msgstr ""
+
+#: patterns/footer-columns.php:70
+msgid "241, New Tork Aria, Thailand"
+msgstr ""
+
+#: patterns/footer-columns.php:80
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/footer-columns.php:90
+msgid "+123 456 789 0102"
+msgstr ""
+
+#: patterns/footer-columns.php:107
+#: patterns/sidebar.php:82
+msgid "Gallery"
+msgstr ""
+
+#: patterns/footer-columns.php:140
+msgid "All Rights Reserved."
+msgstr ""
+
+#: patterns/gallery-section.php
+msgctxt "Pattern title"
+msgid "Gallery Section"
+msgstr ""
+
+#: patterns/gallery-section.php:12
+msgid "Our Gallery"
+msgstr ""
+
+#: patterns/gallery-section.php:31
+#: patterns/gallery-section.php:53
+#: patterns/gallery-section.php:75
+#: patterns/gallery-section.php:97
+#: patterns/top-destination.php:38
+#: patterns/top-destination.php:62
+#: patterns/top-destination.php:86
+#: patterns/top-destination.php:110
+msgid "Lorem ipsum dolor sit."
+msgstr ""
+
+#: patterns/gallery-section.php:35
+#: patterns/gallery-section.php:57
+#: patterns/gallery-section.php:79
+#: patterns/gallery-section.php:101
+msgid "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed"
+msgstr ""
+
+#: patterns/main-banner.php
+msgctxt "Pattern title"
+msgid "Main Banner"
+msgstr ""
+
+#: patterns/main-banner.php:21
+msgid "Nature"
+msgstr ""
+
+#: patterns/main-banner.php:27
+msgid "20 Photos That’ll Make You"
+msgstr ""
+
+#: patterns/main-banner.php:27
+msgid "Want to Go to Sri Lanka"
+msgstr ""
+
+#: patterns/main-banner.php:37
+msgid "Know More"
+msgstr ""
+
+#: patterns/main-header.php
+msgctxt "Pattern title"
+msgid "Main Header"
+msgstr ""
+
+#: patterns/post-header-with-background.php
+msgctxt "Pattern title"
+msgid "Post Header With Background"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/search.php:42
+msgid "Sorry Nothing Found. Try searching..!!"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:10
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:18
+msgid "About"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown prmontserrat took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/sidebar.php:26
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown prmontserrat took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+msgstr ""
+
+#: patterns/sidebar.php:32
+msgid "Archive"
+msgstr ""
+
+#: patterns/sidebar.php:40
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar.php:56
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:64
+msgid "Social Icons"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:12
+msgid "What our Client Says"
+msgstr ""
+
+#: patterns/testimonial.php:31
+#: patterns/testimonial.php:63
+#: patterns/testimonial.php:95
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/testimonial.php:41
+#: patterns/testimonial.php:73
+#: patterns/testimonial.php:105
+msgid "Kristan Watson"
+msgstr ""
+
+#: patterns/testimonial.php:45
+msgid "Business Manager"
+msgstr ""
+
+#: patterns/testimonial.php:77
+msgid "Ui Developer"
+msgstr ""
+
+#: patterns/testimonial.php:109
+msgid "Business Ceo"
+msgstr ""
+
+#: patterns/top-destination.php
+msgctxt "Pattern title"
+msgid "Top Destination<?php echo get_parent_theme_file_uri( '/assets/images/dest1.png' );"
+msgstr ""
+
+#: patterns/top-destination.php:34
+msgid "Giza"
+msgstr ""
+
+#: patterns/top-destination.php:58
+msgid "Tokyo"
+msgstr ""
+
+#: patterns/top-destination.php:82
+msgid "Santorini"
+msgstr ""
+
+#: patterns/top-destination.php:106
+msgid "Paris"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Potta One"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Site Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Post Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Semi Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical foreground to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Projects Overlay"
+msgstr ""
+
+#: theme.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr ""
+
+#: theme.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: theme.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Tertiary Text Color"
+msgstr ""
+
+#: theme.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Tertiary Bg Color"
+msgstr ""
+
+#: theme.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Main Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Columns"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Content"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Content"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (No Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post (No Header Image)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Header Image)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Right Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Left Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (No Sidebar)"
+msgstr ""
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr ""
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr ""
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr ""
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""

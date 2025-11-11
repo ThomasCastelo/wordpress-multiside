@@ -1,0 +1,33 @@
+version: '3.3'
+services:
+  db:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: example_root_password
+      MYSQL_DATABASE: wordpress_multisite
+      MYSQL_USER: wpuser
+      MYSQL_PASSWORD: wppassword
+    volumes:
+      - db_data:/var/lib/mysql
+  wordpress:
+    image: wordpress:latest
+    ports:
+      - "8000:80"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: wordpress_multisite
+      WORDPRESS_DB_USER: wpuser
+      WORDPRESS_DB_PASSWORD: wppassword
+      # IMPORTANTE: Esta linea habilita multisite en el contenedor de forma automática
+      WORDPRESS_CONFIG_EXTRA: |
+        define('WP_ALLOW_MULTISITE', true);
+    volumes:
+      # Mapea la carpeta local "wp-content" con la carpeta del contenedor
+      - ./wp-content:/var/www/html/wp-content
+      - ./.htaccess:/var/www/html/.htaccess
+      - ./wp-config.php:/var/www/html/wp-config.php
+    depends_on:
+      - db
+
+volumes:
+  db_data:
