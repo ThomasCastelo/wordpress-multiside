@@ -19,8 +19,10 @@ docker-compose up -d
 3. Importar la Base de Datos con Contenido
 Para ver los 3 sitios (Noticias, Tienda, Comunidad) y el contenido que creaste, debes cargar la base de datos exportada (multisite.sql).
 
+
 Nota: La clave root de MySQL para el contenedor es example_root_password.
-docker exec -i wordpress_db_1 mysql -u root -pexample_root_password wordpress < multisite.sql
+docker exec -i wordpress-multiside-db-1 mysql -u root -pexample_root_password wordpress_multisite < multisite.sql
 4. Acceder al Sitio
+
 Una vez finalizada la importación, el sitio estará operativo.Sitio Principal (Noticias): Abre tu navegador en http://localhost:8000/
 Acceso al Escritorio: Abre tu navegador en http://localhost:8000/wp-admin/ SitioURLTienda: http://localhost:8000/tienda/ Comunidad: http://localhost:8000/comunidad/
